@@ -1,0 +1,46 @@
+pipeline {
+  agent any
+  environment {
+    ACR_NAME = 'acrsid12345'
+    IMAGE_NAME = 'webapidocker1'
+    RESOURCE_GROUP = 'codecraft-rg'
+    CLUSTER_NAME = 'codecraft-aks'
+  }
+
+  stages {
+    stage('Clone Repo') {
+      steps {
+        git 'https://github.com/Bhavika6940/Jenkins-Docker-Kubernete-DotNets/tree/main/ProductService'
+      }
+    }
+
+    stage('Build Docker Image') {
+      steps {
+        sh "docker build -t $ACR_NAME.azurecr.io/$IMAGE_NAME:latest ./app"
+      }
+    }
+
+    stage('Push to ACR') {
+      steps {
+        withCredentials([azureServicePrincipal('AZURE_CREDENTIALS')]) {
+          sh '''
+            az login --service-principal -u $AZURE_CLIENT_ID -p $AZURE_CLIENT_SECRET --tenant $AZURE_TENANT_ID
+            az acr login --name $ACR_NAME
+            docker push $ACR_NAME.azurecr.io/$IMAGE_NAME:latest
+          '''
+        }
+      }
+    }
+
+    stage('Deploy to AKS') {
+      steps {
+        withCredentials([azureServicePrincipal('AZURE_CREDENTIALS')]) {
+          sh '''
+            az aks get-credentials --resource-group $RESOURCE_GROUP --name $CLUSTER_NAME
+            kubectl apply -f k8s/test.yaml
+          '''
+        }
+      }
+    }
+  }
+}
