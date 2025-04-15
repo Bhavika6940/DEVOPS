@@ -20,11 +20,10 @@ pipeline {
         }
 
    stage('Build Docker Image') {
-             steps {
-                  sh "docker build -t ${ACR_NAME}.azurecr.io/${IMAGE_NAME}:latest -f ProductService/Dockerfile ProductService"
-
-              }
-        }
+           steps {
+              sh "docker build -t ${ACR_NAME}.azurecr.io/${IMAGE_NAME}:latest -f Dockerfile ."
+            }
+      }
 
     
     stage('Push to ACR') {
