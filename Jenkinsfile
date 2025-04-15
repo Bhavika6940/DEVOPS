@@ -21,7 +21,8 @@ pipeline {
 
     stage('Build Docker Image') {
       steps {
-        bat "docker build -t %ACR_LOGIN_SERVER%/%IMAGE_NAME%:%IMAGE_TAG% -f ProductService/Dockerfile ProductService"
+        sh "docker build -t $ACR_NAME.azurecr.io/$IMAGE_NAME:latest ."
+
       }
     }
     
