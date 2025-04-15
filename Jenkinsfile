@@ -21,7 +21,7 @@ pipeline {
 
     stage('Build Docker Image') {
       steps {
-        sh "docker build -t $ACR_NAME.azurecr.io/$IMAGE_NAME:latest ./app"
+        sh "docker build -t $ACR_NAME.azurecr.io/$IMAGE_NAME:latest Dockerfile"
       }
     }
     
