@@ -21,7 +21,7 @@ pipeline {
     }
      stage('Build .NET App') {
             steps {
-                bat 'dotnet publish WebApiJenkins/WebApiJenkins.csproj -c Release -o out'
+                bat 'dotnet publish ProductService/ProductService/ProductService.csproj -c Release -o out'
             }
         }
 
