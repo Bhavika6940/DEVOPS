@@ -10,7 +10,7 @@ pipeline {
   stages {
     stage('Clone Repo') {
       steps {
-        git 'https://github.com/Bhavika6940/DEVOPS',branch :'main'
+        git 'https://github.com/Bhavika6940/DEVOPS'
       }
     }
 
