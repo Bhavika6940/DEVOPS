@@ -1,0 +1,73 @@
+E:\C++ code\dotnet\ProductService\ProductService\bin\Debug\net8.0\appsettings.Development.json
+E:\C++ code\dotnet\ProductService\ProductService\bin\Debug\net8.0\appsettings.json
+E:\C++ code\dotnet\ProductService\ProductService\bin\Debug\net8.0\ProductService.staticwebassets.endpoints.json
+E:\C++ code\dotnet\ProductService\ProductService\bin\Debug\net8.0\ProductService.exe
+E:\C++ code\dotnet\ProductService\ProductService\bin\Debug\net8.0\ProductService.deps.json
+E:\C++ code\dotnet\ProductService\ProductService\bin\Debug\net8.0\ProductService.runtimeconfig.json
+E:\C++ code\dotnet\ProductService\ProductService\bin\Debug\net8.0\ProductService.dll
+E:\C++ code\dotnet\ProductService\ProductService\bin\Debug\net8.0\ProductService.pdb
+E:\C++ code\dotnet\ProductService\ProductService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\C++ code\dotnet\ProductService\ProductService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C++ code\dotnet\ProductService\ProductService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C++ code\dotnet\ProductService\ProductService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C++ code\dotnet\ProductService\ProductService\obj\Debug\net8.0\ProductService.csproj.AssemblyReference.cache
+E:\C++ code\dotnet\ProductService\ProductService\obj\Debug\net8.0\ProductService.GeneratedMSBuildEditorConfig.editorconfig
+E:\C++ code\dotnet\ProductService\ProductService\obj\Debug\net8.0\ProductService.AssemblyInfoInputs.cache
+E:\C++ code\dotnet\ProductService\ProductService\obj\Debug\net8.0\ProductService.AssemblyInfo.cs
+E:\C++ code\dotnet\ProductService\ProductService\obj\Debug\net8.0\ProductService.csproj.CoreCompileInputs.cache
+E:\C++ code\dotnet\ProductService\ProductService\obj\Debug\net8.0\ProductService.MvcApplicationPartsAssemblyInfo.cs
+E:\C++ code\dotnet\ProductService\ProductService\obj\Debug\net8.0\ProductService.MvcApplicationPartsAssemblyInfo.cache
+E:\C++ code\dotnet\ProductService\ProductService\obj\Debug\net8.0\scopedcss\bundle\ProductService.styles.css
+E:\C++ code\dotnet\ProductService\ProductService\obj\Debug\net8.0\staticwebassets.build.json
+E:\C++ code\dotnet\ProductService\ProductService\obj\Debug\net8.0\staticwebassets.development.json
+E:\C++ code\dotnet\ProductService\ProductService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\C++ code\dotnet\ProductService\ProductService\obj\Debug\net8.0\staticwebassets\msbuild.ProductService.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C++ code\dotnet\ProductService\ProductService\obj\Debug\net8.0\staticwebassets\msbuild.ProductService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\C++ code\dotnet\ProductService\ProductService\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductService.props
+E:\C++ code\dotnet\ProductService\ProductService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductService.props
+E:\C++ code\dotnet\ProductService\ProductService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductService.props
+E:\C++ code\dotnet\ProductService\ProductService\obj\Debug\net8.0\staticwebassets.pack.json
+E:\C++ code\dotnet\ProductService\ProductService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\C++ code\dotnet\ProductService\ProductService\obj\Debug\net8.0\ProductS.A0FC5512.Up2Date
+E:\C++ code\dotnet\ProductService\ProductService\obj\Debug\net8.0\ProductService.dll
+E:\C++ code\dotnet\ProductService\ProductService\obj\Debug\net8.0\refint\ProductService.dll
+E:\C++ code\dotnet\ProductService\ProductService\obj\Debug\net8.0\ProductService.pdb
+E:\C++ code\dotnet\ProductService\ProductService\obj\Debug\net8.0\ProductService.genruntimeconfig.cache
+E:\C++ code\dotnet\ProductService\ProductService\obj\Debug\net8.0\ref\ProductService.dll
+D:\Training\dotnet\ProductService\ProductService\bin\Debug\net8.0\appsettings.Development.json
+D:\Training\dotnet\ProductService\ProductService\bin\Debug\net8.0\appsettings.json
+D:\Training\dotnet\ProductService\ProductService\bin\Debug\net8.0\ProductService.staticwebassets.endpoints.json
+D:\Training\dotnet\ProductService\ProductService\bin\Debug\net8.0\ProductService.exe
+D:\Training\dotnet\ProductService\ProductService\bin\Debug\net8.0\ProductService.deps.json
+D:\Training\dotnet\ProductService\ProductService\bin\Debug\net8.0\ProductService.runtimeconfig.json
+D:\Training\dotnet\ProductService\ProductService\bin\Debug\net8.0\ProductService.dll
+D:\Training\dotnet\ProductService\ProductService\bin\Debug\net8.0\ProductService.pdb
+D:\Training\dotnet\ProductService\ProductService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Training\dotnet\ProductService\ProductService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Training\dotnet\ProductService\ProductService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Training\dotnet\ProductService\ProductService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Training\dotnet\ProductService\ProductService\obj\Debug\net8.0\ProductService.csproj.AssemblyReference.cache
+D:\Training\dotnet\ProductService\ProductService\obj\Debug\net8.0\ProductService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\dotnet\ProductService\ProductService\obj\Debug\net8.0\ProductService.AssemblyInfoInputs.cache
+D:\Training\dotnet\ProductService\ProductService\obj\Debug\net8.0\ProductService.AssemblyInfo.cs
+D:\Training\dotnet\ProductService\ProductService\obj\Debug\net8.0\ProductService.csproj.CoreCompileInputs.cache
+D:\Training\dotnet\ProductService\ProductService\obj\Debug\net8.0\ProductService.MvcApplicationPartsAssemblyInfo.cs
+D:\Training\dotnet\ProductService\ProductService\obj\Debug\net8.0\ProductService.MvcApplicationPartsAssemblyInfo.cache
+D:\Training\dotnet\ProductService\ProductService\obj\Debug\net8.0\scopedcss\bundle\ProductService.styles.css
+D:\Training\dotnet\ProductService\ProductService\obj\Debug\net8.0\staticwebassets.build.json
+D:\Training\dotnet\ProductService\ProductService\obj\Debug\net8.0\staticwebassets.development.json
+D:\Training\dotnet\ProductService\ProductService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Training\dotnet\ProductService\ProductService\obj\Debug\net8.0\staticwebassets\msbuild.ProductService.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Training\dotnet\ProductService\ProductService\obj\Debug\net8.0\staticwebassets\msbuild.ProductService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Training\dotnet\ProductService\ProductService\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductService.props
+D:\Training\dotnet\ProductService\ProductService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductService.props
+D:\Training\dotnet\ProductService\ProductService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductService.props
+D:\Training\dotnet\ProductService\ProductService\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Training\dotnet\ProductService\ProductService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Training\dotnet\ProductService\ProductService\obj\Debug\net8.0\ProductS.A0FC5512.Up2Date
+D:\Training\dotnet\ProductService\ProductService\obj\Debug\net8.0\ProductService.dll
+D:\Training\dotnet\ProductService\ProductService\obj\Debug\net8.0\refint\ProductService.dll
+D:\Training\dotnet\ProductService\ProductService\obj\Debug\net8.0\ProductService.pdb
+D:\Training\dotnet\ProductService\ProductService\obj\Debug\net8.0\ProductService.genruntimeconfig.cache
+D:\Training\dotnet\ProductService\ProductService\obj\Debug\net8.0\ref\ProductService.dll
+D:\Training\dotnet\ProductService\ProductService\obj\Debug\net8.0\ProductService.sourcelink.json
