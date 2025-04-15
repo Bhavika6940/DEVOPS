@@ -19,6 +19,12 @@ pipeline {
         sh "docker build -t $ACR_NAME.azurecr.io/$IMAGE_NAME:latest ./app"
       }
     }
+     stage('Build .NET App') {
+            steps {
+                bat 'dotnet publish WebApiJenkins/WebApiJenkins.csproj -c Release -o out'
+            }
+        }
+
 
     stage('Push to ACR') {
       steps {
