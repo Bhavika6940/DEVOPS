@@ -8,7 +8,7 @@ pipeline {
   }
 
   stages {
-    stage('Clone Repo') {
+    stage('Checkout') {
       steps {
         git url:'https://github.com/Bhavika6940/DEVOPS', branch: 'main'
       }
