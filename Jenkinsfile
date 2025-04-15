@@ -13,18 +13,18 @@ pipeline {
         git url:'https://github.com/Bhavika6940/DEVOPS', branch: 'main'
       }
     }
-     stage('Build .NET App') {
+   stage('Build .NET App') {
             steps {
                 bat 'dotnet publish ProductService/ProductService/ProductService.csproj -c Release -o out'
             }
         }
 
-    stage('Build Docker Image') {
-      steps {
-        sh "docker build -t $ACR_NAME.azurecr.io/$IMAGE_NAME:latest ."
+   stage('Build Docker Image') {
+             steps {
+                  sh "docker build -t ${ACR_NAME}.azurecr.io/${IMAGE_NAME}:latest ."
+              }
+        }
 
-      }
-    }
     
     stage('Push to ACR') {
       steps {
