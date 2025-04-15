@@ -10,7 +10,7 @@ pipeline {
   stages {
     stage('Clone Repo') {
       steps {
-        git 'https://github.com/Bhavika6940/Jenkins-Docker-Kubernete-DotNets/tree/main/ProductService'
+        git 'https://github.com/Bhavika6940/DEVOPS'
       }
     }
 
